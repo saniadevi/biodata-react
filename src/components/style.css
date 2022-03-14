@@ -1,0 +1,70 @@
+.resume {
+  border-top: 10px solid white;
+  color: white;
+  border-left: none;
+  border-bottom: none;
+  border-right: none;
+  margin-bottom: 10px;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.head {
+  background-color: #fda1af;
+  padding: 20px;
+  width: "100%";
+}
+
+h2 {
+  font-family: "Times New Roman", Times, serif;
+}
+.wr {
+  padding: 15px;
+}
+.ac {
+  float: left;
+  width: 30%;
+  height: 150px;
+  padding: 5px;
+}
+.skil {
+  float: left;
+  width: 40%;
+  height: auto;
+}
+#hrr {
+  width: 80px;
+  border: 2px solid black;
+}
+.card {
+  padding: 20px;
+  /* border-radius: 10px; */
+  display: flex;
+  background-color: lightpink;
+  height: auto;
+  width: auto;
+}
+
+h5 {
+  text-align: center;
+}
+.bungkus {
+  display: flex;
+}
+.hd {
+  border: none;
+  border-left: 1px solid hsla(200, 10%, 50%, 100);
+  height: auto;
+  width: 1px;
+}
+
+.contact {
+  text-align: center;
+  margin-top: -200px;
+}
+.social {
+  text-align: right;
+  margin-top: -140px;
+}
